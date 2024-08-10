@@ -1,4 +1,4 @@
-<h1> Ola eu sou Gabriel Lobo, desenvolvedor web fullstack e RPA.</h1>
+<h1> Olá, eu sou Gabriel Lobo desenvolvedor web fullstack e RPA.</h1>
 
 ### Main skills Web Development: 
 
