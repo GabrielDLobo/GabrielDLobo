@@ -1,6 +1,6 @@
 <h1> Olá, eu sou Gabriel Lobo. Desenvolvedor de Web/Software e RPA.</h1>
 
-## Main skills Frontend Web/Software Development:
+<h2> ## Main skills Frontend Web/Software Development: </h2>
 <div align="">  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -12,7 +12,7 @@
 </div>
 
 
-## Main skills Backend Web/Software Development:
+<h2>## Main skills Backend Web/Software Development:</h2>
 <div align="">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)" />
@@ -20,7 +20,7 @@
 </div>
 
 
-## Main skills databases and Deploy:
+<h2>## Main skills databases and Deploy:</h2>
 <div align="">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)" />
@@ -30,21 +30,21 @@
 </div>
 
 
-### RPA (robotic process automation): 
+<h2>### RPA (robotic process automation):</h2>
 <div align="">  
   <img src="https://img.shields.io/badge/UiPath-FA4616.svg?style=for-the-badge&logo=UiPath&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)" />
 </div>
 
 
-### Tools:
+<h2>### Tools:</h2>
 <div align="">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)" />
 </div>
 
 
-### Contact
+<h2>### Contact</h2>
 <div> 
   <a href = "mailto:gabrieldlobo@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
   <a href="https://www.linkedin.com/in/gabrieldelobo/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
