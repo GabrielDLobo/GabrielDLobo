@@ -1,7 +1,6 @@
 <h1> Olá, eu sou Gabriel Lobo. Desenvolvedor de Web/Software e RPA.</h1>
 
 ### Main skills FrontEnd Web Development: 
-
 <div align="">  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -11,7 +10,6 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)" />
   <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)" />
-
 </div>
 
 ## Main skills Backend Web/Software Development:
@@ -34,7 +32,7 @@
 
 <div align="">  
   <img src="https://img.shields.io/badge/UiPath-FA4616.svg?style=for-the-badge&logo=UiPath&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#)" />
+  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)" />
 </div>
 
 
