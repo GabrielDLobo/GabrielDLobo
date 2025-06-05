@@ -1,6 +1,8 @@
 <h1> Olá, eu sou Gabriel Lobo. Desenvolvedor de Web/Software e RPA.</h1>
 
-<h2> ## Main skills Frontend Web/Software Development: </h2>
+
+
+<h2> Main skills Frontend Web/Software Development: </h2>
 <div align="">  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -12,7 +14,7 @@
 </div>
 
 
-<h2>## Main skills Backend Web/Software Development:</h2>
+<h2>### Main skills Backend Web/Software Development:</h2>
 <div align="">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)" />
@@ -20,7 +22,7 @@
 </div>
 
 
-<h2>## Main skills databases and Deploy:</h2>
+<h2>### Main skills databases and Deploy:</h2>
 <div align="">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)" />
