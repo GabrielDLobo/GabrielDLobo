@@ -14,7 +14,7 @@
 </div>
 
 
-<h2> Main skills Backend Web/Software Development:</h2>
+<h3> Main skills Backend Web/Software Development:</h3>
 <div align="">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)" />
@@ -22,7 +22,7 @@
 </div>
 
 
-<h2> Main skills databases and Deploy:</h2>
+<h3> Main skills databases and Deploy:</h3>
 <div align="">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)" />
@@ -32,21 +32,21 @@
 </div>
 
 
-<h2> RPA (robotic process automation):</h2>
+<h3> RPA (robotic process automation):</h3>
 <div align="">  
   <img src="https://img.shields.io/badge/UiPath-FA4616.svg?style=for-the-badge&logo=UiPath&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)" />
 </div>
 
 
-<h2> Tools:</h2>
+<h3> Tools:</h3>
 <div align="">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)" />
 </div>
 
 
-<h2> Contact</h2>
+<h3> Contact</h3>
 <div> 
   <a href = "mailto:gabrieldlobo@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
   <a href="https://www.linkedin.com/in/gabrieldelobo/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
