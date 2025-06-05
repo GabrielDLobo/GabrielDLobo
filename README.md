@@ -36,6 +36,7 @@
 <div align="">  
   <img src="https://img.shields.io/badge/UiPath-FA4616.svg?style=for-the-badge&logo=UiPath&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)" />
+  <img src"https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-Automate-Colored.png" />
 </div>
 
 
