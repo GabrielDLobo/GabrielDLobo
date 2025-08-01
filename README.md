@@ -1,5 +1,6 @@
 <h1> Olá, eu sou Gabriel Lobo. Desenvolvedor de Web/Software e RPA.</h1>
 
+Formado em RH, Administração, Ciências Contábeis e atualmente cursando Engenharia de Software.
 
 
 <h3> Main skills Frontend Web/Software Development: </h3>
@@ -36,15 +37,7 @@
 <div align="">  
   <img src="https://img.shields.io/badge/UiPath-FA4616.svg?style=for-the-badge&logo=UiPath&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Microsoft%20Power%20Automate-007ACC?style=for-the-badge&logo=Microsoft%20Power%20Automate&logoColor=white%22" />
-  <img src="https://img.shields.io/badge/Bot%20City%20Maestro-020202?style=for-the-badge&logo=Bot%20City&logoColor=white%22" />
   <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)" />
-</div>
-
-
-<h3> Tools:</h3>
-<div align="">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)" />
 </div>
 
 
