@@ -5,15 +5,13 @@
 - 🎓 <strong>Graduado</strong> em Administração e Ciências Contábeis
 - 🎓 <strong>Graduando</strong> em Engenharia de Software
 - 👩‍💻 <strong>Desenvolvedor De Software | RPA - Uipath</strong>
-- 👩‍💻 I'm studying English to improve my skills and my career
+- 📚 I'm studying English to improve my skills and my career
 - ☕ Apaixonado em desenvolver e entregar soluções elaborando todo o <strong>BACKEND e Automatizando tarefas repetitivas</strong>
 
-- 💻 Atuei por quatro anos como Coordenador de Projetos e Melhorias em uma empresa de contabilidade, desenvolvendo forte habilidade em identificar as necessidades do cliente antes de propor soluções. Realizei o mapeamento de processos falhos, negociei melhorias com as equipes operacionais e conduzi o acompanhamento pré e pós-implantação de softwares, atuando como ponte entre o time contábil, os clientes e a diretoria.
+- 👨🏻‍💻 Atuei por quatro anos como Coordenador de Projetos e Melhorias em uma empresa de contabilidade, desenvolvendo forte habilidade em identificar as necessidades do cliente antes de propor soluções. Realizei o mapeamento de processos falhos, negociei melhorias com as equipes operacionais e conduzi o acompanhamento pré e pós-implantação de softwares, atuando como ponte entre o time contábil, os clientes e a diretoria.
 
 
-<strong><h3> Main skills Frontend Web/Software Development: </h3></strong>
-
-<div align="">  
+<div><h2> 🎨 Main Skills Frontend </h2>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -24,16 +22,14 @@
 </div>
 
 
-<strong><h3> Main skills Backend Web/Software Development:</h3></strong>
-<div align="">
+<div><h2> 💻 Main Skills Backend </h2>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)" />
   <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)" />
 </div>
 
 
-<strong><h3> Main skills databases and Deploy:</h3></strong>
-<div align="">
+<div><h2> ☁️ Main Skills Database and Deploy </h2>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)" />
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)" />
@@ -41,8 +37,7 @@
 </div>
 
 
-<h3> RPA (robotic process automation):</h3>
-<div align="">  
+<div><h2> 🤖 Robotic Process Automation </h2>
   <img src="https://img.shields.io/badge/UiPath-FA4616.svg?style=for-the-badge&logo=UiPath&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Microsoft%20Power%20Automate-007ACC?style=for-the-badge&logo=Microsoft%20Power%20Automate&logoColor=white%22" />
   <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)" />
