@@ -1,9 +1,17 @@
-<h1> Olá, eu sou Gabriel Lobo. Desenvolvedor de Web/Software e RPA.</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=Olá!+%F0%9F%91%8B;Pode+me+chamar+de+Gabriel!+%F0%9F%98%81;Sou+Desenvolvedor+Fullstack+e+RPA;Especialista+em+PYTHON+DJANGO+REACT+e+UIPATH)](https://git.io/typing-svg)
 
-Formado em RH, Administração, Ciências Contábeis e atualmente cursando Engenharia de Software.
+<h1>👩🏽‍💻 Sobre mim: </h1>
+
+- 🎓 <strong>Graduado</strong> em Administração e Ciências Contábeis
+- 🎓 <strong>Graduando</strong> em Engenharia de Software
+- ☕ Apaixonado em desenvolver e entregar soluções elaborando todo o <strong>BACKEND e Automatizando tarefas repetitivas</strong>
+- 👩‍💻 <strong>Desenvolvimento De Software | RPA - Uipath</strong>
+- 👩‍💻 I'm studying English to improve my skills and my career
+- 💻 Atuei como Coordenador de Projetos e Melhorias em uma contabilidade por 4 anos, onde tive o forte desenvolvimento de tato e entendimento da dor do cliente antes de propor uma solução, mapeando todos os processos falhos e negociando soluções com todo o time operacional e efetuando o follow up do pré e pós entrega de software de implantação junto ao time contábil, ao cliente e report a diretoria.
 
 
-<h3> Main skills Frontend Web/Software Development: </h3>
+<strong><h3> Main skills Frontend Web/Software Development: </h3></strong>
+
 <div align="">  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -15,7 +23,7 @@ Formado em RH, Administração, Ciências Contábeis e atualmente cursando Engen
 </div>
 
 
-<h3> Main skills Backend Web/Software Development:</h3>
+<strong><h3> Main skills Backend Web/Software Development:</h3></strong>
 <div align="">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)" />
@@ -23,7 +31,7 @@ Formado em RH, Administração, Ciências Contábeis e atualmente cursando Engen
 </div>
 
 
-<h3> Main skills databases and Deploy:</h3>
+<strong><h3> Main skills databases and Deploy:</h3></strong>
 <div align="">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)" />
@@ -48,5 +56,9 @@ Formado em RH, Administração, Ciências Contábeis e atualmente cursando Engen
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0073CE&height=120&section=footer"/>
+<!-- GitHub Stats -->
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielDLobo&show_icons=true&count_private=true&hide_border=true&title_color=B253FF&icon_color=B253FF&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Dorto GitHub stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDLobo&layout=compact&hide_border=true&title_color=B253FF&text_color=c9d1d9&bg_color=0d1117" />
+</div>
  
