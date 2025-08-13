@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=Olá!+%F0%9F%91%8B;Pode+me+chamar+de+Gabriel!+%F0%9F%98%81;Sou+Desenvolvedor+Fullstack+e+RPA;Especialista+em+PYTHON+DJANGO+REACT+e+UIPATH)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=Olá!+%F0%9F%91%8B;Pode+me+chamar+de+Gabriel!+%F0%9F%98%81;Sou+Desenvolvedor+Fullstack+e+RPA;Especialista+em+PYTHON,DJANGO,REACT+e+UIPATH)](https://git.io/typing-svg)
 
 <h1>👩🏽‍💻 Sobre mim: </h1>
 
