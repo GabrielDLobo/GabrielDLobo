@@ -4,9 +4,10 @@
 
 - 🎓 <strong>Graduado</strong> em Administração e Ciências Contábeis
 - 🎓 <strong>Graduando</strong> em Engenharia de Software
-- ☕ Apaixonado em desenvolver e entregar soluções elaborando todo o <strong>BACKEND e Automatizando tarefas repetitivas</strong>
-- 👩‍💻 <strong>Desenvolvimento De Software | RPA - Uipath</strong>
+- 👩‍💻 <strong>Desenvolvedor De Software | RPA - Uipath</strong>
 - 👩‍💻 I'm studying English to improve my skills and my career
+- ☕ Apaixonado em desenvolver e entregar soluções elaborando todo o <strong>BACKEND e Automatizando tarefas repetitivas</strong>
+
 - 💻 Atuei como Coordenador de Projetos e Melhorias em uma contabilidade por 4 anos, onde tive o forte desenvolvimento de tato e entendimento da dor do cliente antes de propor uma solução, mapeando todos os processos falhos e negociando soluções com todo o time operacional e efetuando o follow up do pré e pós entrega de software de implantação junto ao time contábil, ao cliente e report a diretoria.
 
 
@@ -58,7 +59,6 @@
 
 <!-- GitHub Stats -->
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielDLobo&show_icons=true&count_private=true&hide_border=true&title_color=B253FF&icon_color=B253FF&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Dorto GitHub stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDLobo&layout=compact&hide_border=true&title_color=B253FF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
  
