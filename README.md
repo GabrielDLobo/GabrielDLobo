@@ -8,7 +8,7 @@
 - 👩‍💻 I'm studying English to improve my skills and my career
 - ☕ Apaixonado em desenvolver e entregar soluções elaborando todo o <strong>BACKEND e Automatizando tarefas repetitivas</strong>
 
-- 💻 Atuei como Coordenador de Projetos e Melhorias em uma contabilidade por 4 anos, onde tive o forte desenvolvimento de tato e entendimento da dor do cliente antes de propor uma solução, mapeando todos os processos falhos e negociando soluções com todo o time operacional e efetuando o follow up do pré e pós entrega de software de implantação junto ao time contábil, ao cliente e report a diretoria.
+- 💻 Atuei por quatro anos como Coordenador de Projetos e Melhorias em uma empresa de contabilidade, desenvolvendo forte habilidade em identificar as necessidades do cliente antes de propor soluções. Realizei o mapeamento de processos falhos, negociei melhorias com as equipes operacionais e conduzi o acompanhamento pré e pós-implantação de softwares, atuando como ponte entre o time contábil, os clientes e a diretoria.
 
 
 <strong><h3> Main skills Frontend Web/Software Development: </h3></strong>
@@ -58,7 +58,7 @@
 
 
 <!-- GitHub Stats -->
-<div align="center">  
+<div align="right">  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDLobo&layout=compact&hide_border=true&title_color=B253FF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
  
