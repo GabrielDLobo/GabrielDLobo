@@ -1,14 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=Olá!+%F0%9F%91%8B;Pode+me+chamar+de+Gabriel!+%F0%9F%98%81;Sou+Desenvolvedor+Fullstack+e+RPA;Especialista+em+PYTHON,DJANGO,REACT+e+UIPATH)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=Hi!+%F0%9F%91%8B;You+can+call+me+Gabriel!+%F0%9F%98%81;I'm+a+Fullstack+and+RPA+Developer)](https://git.io/typing-svg)
 
-<h1>👩🏽‍💻 Sobre mim: </h1>
+<h1>👩🏽‍💻 About Me: </h1>
 
-- 🎓 <strong>Graduado</strong> em Administração e Ciências Contábeis
-- 🎓 <strong>Graduando</strong> em Engenharia de Software
-- 👩‍💻 <strong>Desenvolvedor De Software | RPA - Uipath</strong>
-- 📚 I'm studying English to improve my skills and my career
-- ☕ Apaixonado em desenvolver e entregar soluções elaborando todo o <strong>BACKEND e Automatizando tarefas repetitivas</strong>
+- 🎓 <strong>Graduated</strong>  in Business Administration and Accountin
+- 🎓 <strong>Currently pursuing</strong> a degree in Software Engineering
+- 👩‍💻 <strong>Software Developer Specialized in Python, Django and React for web softwares
+- 👩‍💻 <strong> RPA Developer Specialized in Uipath for low coding, and coding with Python using tools and libraries like Botcity Maestro and Selenium</strong>
+- ☕ Passionate about developing and delivering solutions by building complete BACKEND systems and automating repetitive tasks</strong>
 
-- 👨🏻‍💻 Atuei por quatro anos como Coordenador de Projetos e Melhorias em uma empresa de contabilidade, desenvolvendo forte habilidade em identificar as necessidades do cliente antes de propor soluções. Realizei o mapeamento de processos falhos, negociei melhorias com as equipes operacionais e conduzi o acompanhamento pré e pós-implantação de softwares, atuando como ponte entre o time contábil, os clientes e a diretoria.
+- 👨🏻‍💻 I worked for four years as a Project and Improvement Coordinator at an accounting firm, where I developed strong skills in identifying client needs before proposing solutions. I mapped out flawed processes, negotiated improvements with operational teams, and managed the pre-implementation and post-implementation of software systems, acting as a bridge between the accounting team, clients, and senior management.
 
 
 <div><h2> 🎨 Main Skills Frontend </h2>
@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/UiPath-FA4616.svg?style=for-the-badge&logo=UiPath&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Microsoft%20Power%20Automate-007ACC?style=for-the-badge&logo=Microsoft%20Power%20Automate&logoColor=white%22" />
   <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)" />
+  <img src="https://img.shields.io/badge/Botcity%20Maestro-000000?style=for-the-badge&logo=Microsoft%20Power%20Automate&logoColor=black%22" />
 </div>
 
 
@@ -55,8 +56,8 @@
 <br>
 <br>
 
-<div><h2>📱 Redes sociais e contato </h2>
-  <a href = "mailto:gabrieldlobo@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
+<div><h2>📱 Contact me </h2>
+  <a href = "mailto:gabrieldlobo@icloud.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
   <a href="https://www.linkedin.com/in/gabrieldelobo/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://wa.me/11992567297" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
