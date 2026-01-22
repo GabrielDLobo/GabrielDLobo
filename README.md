@@ -1,4 +1,4 @@
-# Gabriel D. Lobo
+# Gabriel Lobo
 
 Full-stack developer specializing in AI-powered applications, RESTful APIs, and scalable web systems.  Focused on building intelligent solutions that integrate modern AI capabilities with robust backend architectures.
 
@@ -77,17 +77,17 @@ Currently exploring retrieval-augmented generation, vector databases, and conver
 - Stock inflow and outflow tracking
 - TailwindCSS responsive interface
 
-**06-API_Pgto_MercadoLivre** - Payment integration API
-- FastAPI implementation
-- Mercado Pago gateway integration
-- Webhook handling for payment notifications
-- Secure transaction processing
-
 **03-Webhooks-Inventory-Management-System** - Real-time communication service
 - Webhook integration for inventory events
 - CallMeBot API for notifications
 - Event logging and monitoring
 - Asynchronous event processing
+
+**06-API_Pgto_MercadoLivre** - Payment integration API
+- FastAPI implementation
+- Mercado Pago gateway integration
+- Webhook handling for payment notifications
+- Secure transaction processing
 
 ---
 
